@@ -35,7 +35,7 @@ differences in syntax, naming and conventions:
   https://github.com/fabric8-analytics/
 
 - ScanCode and AboutCode.org use a type, name and version
-  https://github.com/nexB/scancode-toolkit
+  https://github.com/aboutcode-org/scancode-toolkit
 
 - SPDX has an appendix for external repository references and uses a type and a
   locator with a type-specific syntax for component separators in a URL-like
@@ -167,7 +167,7 @@ Known implementations
 
 Users, adopters and links
 ~~~~~~~~~~~~~~~~~~~~~~~~~
-- `Scancode Toolkit <https://github.com/nexB/scancode-toolkit>`_: Reports
+- `Scancode Toolkit <https://github.com/aboutcode-org/scancode-toolkit>`_: Reports
   `purl` from parsed package manifests using https://github.com/package-url/packageurl-python
 - `OWASP Dependency-Track <https://www.owasp.org/index.php/OWASP_Dependency_Track_Project>`_: 
   Open source component analysis platform
